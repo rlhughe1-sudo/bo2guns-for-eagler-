@@ -1,0 +1,15 @@
+
+name: BO2Weapons
+version: 1.0.0
+main: com.ryden.bo2weapons.BO2Weapons
+author: slimeden
+description: BO2-inspired weapons for DBSMP
+
+commands:
+  guns:
+    description: BO2 weapons management
+    usage: /guns
+
+permissions:
+  bo2weapons.admin:
+    default: op
